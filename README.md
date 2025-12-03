@@ -10,3 +10,5 @@
 5. 🤭 **TEARING**
 El "tearing" o desgarro es un artefacto visual que ocurre cuando la tasa de fotogramas por segundo (FPS) generada por la tarjeta gráfica no está sincronizada con la tasa de refresco de la pantalla, haciendo que se muestren dos o más fotogramas diferentes simultáneamente, y generando una o varias líneas horizontales visibles que "cortan" la imagen
 
+6. 🙃 **Chaotic Quantum Mesh**
+7. Red distribuida que emplea dinámica cuántica caótica para procesar y transmitir información de manera impredecible pero altamente eficiente y segura.
