@@ -5,4 +5,6 @@
 
 3 🎶**Flask**: Framework ligero de Python para construir aplicaciones web y APIs
 
+4 🦍 **Sistemas Críticos**:Aquellos cuya falla puede causar graves consecuencias económicas, sociales o humanas, como en aviación o salud.
+
 
