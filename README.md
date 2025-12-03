@@ -6,6 +6,7 @@
 3 🎶**Flask**: Framework ligero de Python para construir aplicaciones web y APIs
 
 4 🦍 **Sistemas Críticos**:Aquellos cuya falla puede causar graves consecuencias económicas, sociales o humanas, como en aviación o salud.
+
 5. 🤭 **TEARING**
 El "tearing" o desgarro es un artefacto visual que ocurre cuando la tasa de fotogramas por segundo (FPS) generada por la tarjeta gráfica no está sincronizada con la tasa de refresco de la pantalla, haciendo que se muestren dos o más fotogramas diferentes simultáneamente, y generando una o varias líneas horizontales visibles que "cortan" la imagen
 
