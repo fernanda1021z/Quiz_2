@@ -13,3 +13,6 @@ El "tearing" o desgarro es un artefacto visual que ocurre cuando la tasa de foto
 
 6.🙃 **Chaotic Quantum Mesh**
 Red distribuida que emplea dinámica cuántica caótica para procesar y transmitir información de manera impredecible pero altamente eficiente y segura.
+
+7.😁 **Code Smashing**
+Code Smashing: Pruebas extremas que fuerzan al software a fallar bajo condiciones caóticas.
